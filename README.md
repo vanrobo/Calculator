@@ -10,6 +10,7 @@ https://ttkbootstrap.readthedocs.io/en/latest/gettingstarted/installation/
 
 ### The code may be inefficient
 
-This calculator contains a custom made title bar and GUI
+This calculator contains a custom made title bar and GUI and customizabel themes
+Please note that this calculator only works on windows.
 
 © vanrobo 2024
