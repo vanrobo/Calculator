@@ -6,7 +6,7 @@ import ttkbootstrap as ttk # https://ttkbootstrap.readthedocs.io/en/latest/getti
 
 # theme of the window ; can be customized
 theme = 'darkly' # Try (light themes) cosmo, flatly, journal and (dark themes) solar, superhero, darkly, vapor
-window = ttk.Window(themename='theme')
+window = ttk.Window(themename=theme)
 
 # Gets the X and Y location of the cursor and moves the window along with the cursor on holding down M1 
 def movewin(event):
