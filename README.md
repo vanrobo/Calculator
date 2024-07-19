@@ -10,4 +10,6 @@ https://ttkbootstrap.readthedocs.io/en/latest/gettingstarted/installation/
 
 ### The code may be inefficient
 
+This calculator contains a custom made title bar and GUI
+
 © vanrobo 2024
